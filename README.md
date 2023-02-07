@@ -1,4 +1,4 @@
-### Hello my name is Guillermo Galvan
+### Hello my name is Guillermo Galván
 Hi, I'm a software developer with a passion for technology and a strong focus on blockchain, artificial intelligence, and cloud computing. I am also deeply interested in the intersection of technology and finance. I believe that with the right tools and strategies, technology can greatly improve the efficiency and accuracy of trading and financial analysis. I am excited to explore and apply these concepts in real-world scenarios.
 
 ### Skills
